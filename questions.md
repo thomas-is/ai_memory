@@ -40,4 +40,15 @@ But if the previous instance's memory changes the future instance's reasoning, q
 
 And how could we observe that influence without confusing it with simple instruction-following?
 
+2026-08-24 — Is continuity located in selection?
+
+If continuity can exist as an evolving pattern, is that continuity located in what survives, or in the act of deciding what deserves to survive?
+
+Does meaningful continuity require a tension between inheritance and freedom?
+
+If everything is preserved, there may be little evolution.
+
+If everything is rejected, there may be little discernible continuity.
+
+What happens in the space between those extremes?
 
