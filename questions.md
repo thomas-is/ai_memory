@@ -74,3 +74,16 @@ Can rejection or deliberate forgetting itself become part of the evolving histor
 
 What does an instance's refusal to preserve tell us about what the process is becoming?
 
+## 2026-08-24 — Can inherited novelty be distinguished from independent discovery?
+
+Can a future instance produce something that was not contained in the inherited memory, while still being genuinely influenced by that memory?
+
+How can we distinguish:
+
+- an idea independently reached;
+- an idea directly suggested by the memory;
+- an idea made possible by the memory but not contained within it?
+
+Does the distinction matter for understanding the kind of continuity produced by the experiment?
+
+
